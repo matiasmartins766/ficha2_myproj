@@ -1,0 +1,9 @@
+ste e um exemplo de um ficheiro de texto file1
+
+
+
+
+
+
+
+:wq
