@@ -1,4 +1,6 @@
-ste e um exemplo de um ficheiro de texto file1
+elemei esta primeira linha e escrivi esta 
+
+fiz uma alteraçao dentro do ficheiro
 
 
 
