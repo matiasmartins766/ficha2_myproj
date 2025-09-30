@@ -5,7 +5,7 @@ fiz uma alteraçao dentro do ficheiro
 Alterações efetuadas no branch NovaFeature
 
 
-
+alteraçao no branch MASTER
 
 
 :wq
